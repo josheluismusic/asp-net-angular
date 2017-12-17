@@ -13,4 +13,37 @@
         <option *ngFor="let item of models" [value]="item.id"> {{ item.name }}</option>
     </select>
   </div>
+  <p>Is this vehicle registered?</p>
+  <label class="custom-control custom-radio">
+    <input id="registered" name="isRegistered" type="radio" class="custom-control-input" value="true">
+    <span class="custom-control-indicator"></span>
+    <span class="custom-control-description">Yes</span>
+  </label>
+  <label class="custom-control custom-radio">
+    <input id="notregistered" name="isRegistered" type="radio" class="custom-control-input" value="false">
+    <span class="custom-control-indicator"></span>
+    <span class="custom-control-description">No</span>
+  </label>
+  <h2>Features</h2>
+  <div class="custom-controls-stacked">
+    <label *ngFor="let f of features" class="custom-control custom-checkbox">
+      <input type="checkbox" class="custom-control-input" [id]="'feature' + f.id">
+      <span class="custom-control-indicator"></span>
+      <span class="custom-control-description">{{ f.name }}</span>
+    </label>
+  </div>
+  <h2>Contact</h2>
+  <div class="form-group">
+    <label for="">Name</label>
+    <input id="contactName" type="text" class="form-control">
+  </div>
+  <div class="form-group">
+      <label for="">Phone</label>
+      <input id="contactPhone"  type="text" class="form-control">
+  </div>
+  <div class="form-group">
+      <label for="">Email</label>
+      <input id="contactEmail" type="text" class="form-control">
+  </div>  
+  <button class="btn btn-primary">Save</button>
 </form>

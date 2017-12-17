@@ -8,13 +8,14 @@ import { FormsModule } from '@angular/forms'
 import { AppRoutingModule } from './app.routes'
 
 /*Service */
-import { MakeService } from './services/make.service';
+import { VehicleService } from './services/vehicle.service';
 
 /*Components */
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { VehicleFormComponent } from './components/vehicle-form/vehicle-form.component';
 import { HomeComponent } from './components/home/home.component';
+
 
 
 
@@ -32,7 +33,7 @@ import { HomeComponent } from './components/home/home.component';
     AppRoutingModule
   ],
   providers: [
-    MakeService
+    VehicleService
   ],
   bootstrap: [AppComponent]
 })

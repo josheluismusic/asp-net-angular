@@ -12,8 +12,10 @@ namespace VegaWebApi.Controllers
     public class MakesController : Controller
     {
         private readonly VegaDbContext context;
+        private readonly IMapper mapper;
         public MakesController(VegaDbContext context, IMapper mapper)
         {
+            this.mapper = mapper;
             this.context = context;
         }
 
