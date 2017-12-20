@@ -1,5 +1,5 @@
 using System.Threading.Tasks;
-using VegaWebApi.Models;
+using VegaWebApi.Core.Models;
 
 namespace VegaWebApi.Core
 {
