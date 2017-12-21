@@ -19,4 +19,9 @@ export class VehicleService {
     return this.httpClient.get(`${BASE_URL}features`)
                           .map((res: any[]) => res);
   }
+
+  create(vehicle) {
+    return this.httpClient.post(`${BASE_URL}vehicles`, vehicle)
+                          .map((res: any[]) => res);
+  }
 }
