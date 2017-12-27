@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { ToastyModule } from 'ng2-toasty';
 
 import { HttpClientModule } from '@angular/common/http'
 import { FormsModule } from '@angular/forms'
@@ -30,7 +31,8 @@ import { HomeComponent } from './components/home/home.component';
     BrowserModule,
     HttpClientModule,
     FormsModule,
-    AppRoutingModule
+    AppRoutingModule,
+    ToastyModule.forRoot()
   ],
   providers: [
     VehicleService
