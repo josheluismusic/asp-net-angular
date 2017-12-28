@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using AutoMapper;
@@ -22,6 +23,7 @@ namespace VegaWebApi.Controllers
         [HttpGet("api/makes")]
         public async Task<IEnumerable<MakeResource>> GetMakes() 
         {
+            
             var makes = await context.Makes.Include(m => m.Models).ToListAsync();
             return Mapper.Map<List<Make>, List<MakeResource>>(makes);
         }

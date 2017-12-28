@@ -7,6 +7,7 @@ import { VehicleFormComponent } from '../app/components/vehicle-form/vehicle-for
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'vehicle/new', component: VehicleFormComponent },
+  { path: 'vehicle/:id', component: VehicleFormComponent },
   { path: '**', pathMatch: 'full', redirectTo: 'home' }
 ];
 

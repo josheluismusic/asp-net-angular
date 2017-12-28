@@ -1,13 +1,3 @@
-C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\bin\Debug\netcoreapp2.0\VegaWebApi.deps.json
-C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\bin\Debug\netcoreapp2.0\VegaWebApi.runtimeconfig.json
-C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\bin\Debug\netcoreapp2.0\VegaWebApi.runtimeconfig.dev.json
-C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\bin\Debug\netcoreapp2.0\VegaWebApi.dll
-C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\bin\Debug\netcoreapp2.0\VegaWebApi.pdb
-C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\obj\Debug\netcoreapp2.0\VegaWebApi.csproj.CoreCompileInputs.cache
-C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\obj\Debug\netcoreapp2.0\VegaWebApi.AssemblyInfoInputs.cache
-C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\obj\Debug\netcoreapp2.0\VegaWebApi.AssemblyInfo.cs
-C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\obj\Debug\netcoreapp2.0\VegaWebApi.dll
-C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\obj\Debug\netcoreapp2.0\VegaWebApi.pdb
 C:\Users\jcandia\Documents\dotnet_app\asp-net-angular\VegaWebApi\bin\Debug\netcoreapp2.0\VegaWebApi.deps.json
 C:\Users\jcandia\Documents\dotnet_app\asp-net-angular\VegaWebApi\bin\Debug\netcoreapp2.0\VegaWebApi.runtimeconfig.json
 C:\Users\jcandia\Documents\dotnet_app\asp-net-angular\VegaWebApi\bin\Debug\netcoreapp2.0\VegaWebApi.runtimeconfig.dev.json
@@ -18,3 +8,13 @@ C:\Users\jcandia\Documents\dotnet_app\asp-net-angular\VegaWebApi\obj\Debug\netco
 C:\Users\jcandia\Documents\dotnet_app\asp-net-angular\VegaWebApi\obj\Debug\netcoreapp2.0\VegaWebApi.AssemblyInfo.cs
 C:\Users\jcandia\Documents\dotnet_app\asp-net-angular\VegaWebApi\obj\Debug\netcoreapp2.0\VegaWebApi.dll
 C:\Users\jcandia\Documents\dotnet_app\asp-net-angular\VegaWebApi\obj\Debug\netcoreapp2.0\VegaWebApi.pdb
+C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\bin\Debug\netcoreapp2.0\VegaWebApi.deps.json
+C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\bin\Debug\netcoreapp2.0\VegaWebApi.runtimeconfig.json
+C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\bin\Debug\netcoreapp2.0\VegaWebApi.runtimeconfig.dev.json
+C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\bin\Debug\netcoreapp2.0\VegaWebApi.dll
+C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\bin\Debug\netcoreapp2.0\VegaWebApi.pdb
+C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\obj\Debug\netcoreapp2.0\VegaWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\obj\Debug\netcoreapp2.0\VegaWebApi.AssemblyInfoInputs.cache
+C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\obj\Debug\netcoreapp2.0\VegaWebApi.AssemblyInfo.cs
+C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\obj\Debug\netcoreapp2.0\VegaWebApi.dll
+C:\Users\Josheluis\Documents\Proyectos\Tutoriales\asp_core\VegaWebApi\obj\Debug\netcoreapp2.0\VegaWebApi.pdb
