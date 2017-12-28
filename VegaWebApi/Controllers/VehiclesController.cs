@@ -26,9 +26,12 @@ namespace VegaWebApi.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateVehicle([FromBody] SaveVehicleResource vehicleResource) 
         {
+
+            //return StatusCode(500);
             if(!ModelState.IsValid)
                 return BadRequest(ModelState);
 
+          
             /*var model = await context.Models.FindAsync(vehicleResource.ModelId);
             
             if(model == null) {

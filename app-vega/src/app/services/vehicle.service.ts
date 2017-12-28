@@ -24,4 +24,9 @@ export class VehicleService {
     return this.httpClient.post(`${BASE_URL}vehicles`, vehicle)
                           .map((res: any[]) => res);
   }
+
+  getVehicle(id) {
+    return this.httpClient.get(`${BASE_URL}vehicles/${id}`).map((res: any[]) => res);
+  }
+
 }

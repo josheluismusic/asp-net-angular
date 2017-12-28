@@ -40,7 +40,7 @@ namespace VegaWebApi
                         builder.WithOrigins("http://localhost:4200")
                                 .AllowAnyOrigin()
                                 .AllowAnyMethod()
-                                .AllowAnyHeader()
+                                .AllowAnyHeader() 
                                 .AllowCredentials();
                     });
             });
